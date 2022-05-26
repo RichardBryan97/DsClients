@@ -14,7 +14,7 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 import java.net.URI;
 
 @RestController
-@RequestMapping("/client")
+@RequestMapping("/clients")
 public class ClientResources {
 
     @Autowired
